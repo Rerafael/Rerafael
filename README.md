@@ -1,8 +1,8 @@
 # ️ Rafael Moraes Pereira
 **`Estudante de Desenvolvimento de Sistemas e teatro`**
-Me chamo Rafael, tenho 16 anos e sou de Guarulhos. Atualmente, estou estudando Desenvolvimento de Sistemas na EE. Jardim Fortaleza II. Sou apaixonado por tecnologia e busco sempre aprender coisas novas na área de Desenvolvimento de Sistemas e também Teatro
+Me chamo Rafael, tenho 16 anos e sou de Guarulhos. Atualmente, estou estudando Desenvolvimento de Sistemas na EE. Jardim Fortaleza II. Sou apaixonado por tecnologia e busco sempre aprender coisas novas na área de Desenvolvimento de Sistemas e também Teatro.
 <p align="left">
-<a href="https://github.com/SEU_USUARIO?tab=followers">
+<a href="https://github.com/Rerafael?tab=followers">
 <img
 alt="Seguidores"
 title="Me siga no GitHub"
